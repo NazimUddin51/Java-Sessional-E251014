@@ -1,7 +1,7 @@
 public class PersonalInfo {
     public static void main(String[] args) {
         String name = "Nazim Uddin";
-        String studentId = "E251006";
+        String studentId = "E251014";
         int age = 20;
         String email = "nazimbillah111@gmail.com";
         String phone = "017XXXXXXXX";
@@ -28,3 +28,4 @@ public class PersonalInfo {
 }
 
 }
+
